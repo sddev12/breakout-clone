@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
+
+html {
+    background-color: #0B4F6C;
+}
+
+.bgrnd {
+    background-color: #0B4F6C;
+}
+
+h1 {
+    font-family: 'Silkscreen', sans-serif;
+}
+
+.start-button {
+    font-family: 'Silkscreen', sans-serif;
+    color: white;
+    font-size: xx-large;
+    background-color: green;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+}
+
+.start-button:hover {
+    background-color: greenyellow;
+}
